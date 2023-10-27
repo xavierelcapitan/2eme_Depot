@@ -22,3 +22,5 @@ ajout nouveau text
 ajout texte sur la nouvelle branche "ajoutertexte"
 
 ajout text puis envoie via gitHub for Desktop
+
+ouverture du fichier (branche 30) créée depuis l'interface web puis Github Desktop puis Vs Code
