@@ -20,3 +20,5 @@ sur nouvelle branch "version21"
 ajout nouveau text
 
 ajout texte sur la nouvelle branche "ajoutertexte"
+
+ajout text puis envoie via gitHub for Desktop
