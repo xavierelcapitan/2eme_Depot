@@ -1,0 +1,17 @@
+.red {
+    height: 600px;
+    background-color: red;
+}
+
+.btn-custom {
+        background-color: greenyellow;
+        color: white;
+        border: 2px solid red;
+}
+
+.btn-custom:hover {
+    background-color: aqua;
+    color: black;
+    border: 2px solid green;
+    box-shadow: 10px 5px 5px red;
+}
