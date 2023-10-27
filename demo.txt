@@ -1,3 +1,2 @@
-texte version40 
-avec toutes les lignes précédentes supprimées
-TEST 
+version 50
+2 lignes
