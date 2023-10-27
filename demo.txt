@@ -16,3 +16,7 @@ ajout texte 22
 ajout text 23
 ajout texte 24 
 sur nouvelle branch "version21"
+
+ajout nouveau text
+
+ajout texte sur la nouvelle branche "ajoutertexte"
