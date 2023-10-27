@@ -1,3 +1,4 @@
-texte version40 
-avec toutes les lignes précédentes supprimées
-TEST 
+texte version50
+TEST
+TEST
+TEST
