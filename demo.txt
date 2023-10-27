@@ -11,3 +11,14 @@ branche versionD
 branche versionE
 
 ajout text 20
+
+ajout texte 22
+ajout text 23
+ajout texte 24 
+sur nouvelle branch "version21"
+
+ajout nouveau text
+
+ajout texte sur la nouvelle branche "ajoutertexte"
+
+ajout text puis envoie via gitHub for Desktop
